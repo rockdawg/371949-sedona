@@ -3,13 +3,13 @@
   font-style: normal;
   font-weight: regular;
   text-transform: uppercase;
-  src:
 }
+
 body  {
   font-family: "PT Sans", "Helvetica", sans-serif;
   font-size: 14px;
   line-height: 21px;
   color: #333333;
-  font-weight: regular;
+  font-weight: 400;
   text-transform: uppercase;
 }
