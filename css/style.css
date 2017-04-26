@@ -1,8 +1,7 @@
 @font-face {
   font-family: "PT Sans", "Helvetica", sans-serif;
   font-style: normal;
-  font-weight: regular;
-  text-transform: uppercase;
+  font-weight: 400;
 }
 
 body  {
